@@ -69,7 +69,7 @@ header.sticky .navigation .nav-link:hover{
 .banner{
     width: 100%;
     height: 100vh;
-    background: url('bg.jpg');
+    background: url('../images/bg.jpg');
     background-size: cover;
     position: relative;
     display: flex;
@@ -223,7 +223,7 @@ section h2 span{
 
 /* testimonials */
 .testimonial{
-    background: url('bg2.jpg');
+    background: url('../images/bg2.jpg');
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -283,7 +283,7 @@ section h2 span{
 
 /* contact */
 .contact{
-    background: url(bg3.jpg);
+    background: url(../images/bg3.jpg);
     background-size: cover;
 }
 
@@ -405,7 +405,7 @@ form .input-box input[type="submit"]{
     .menuToggle{
         width: 2.5rem;
         height: 2.5rem;
-        background: url('menu.png');
+        background: url('../images/menu.png');
         background-repeat: no-repeat;
         position: relative;
         background-size: 1.87rem;
@@ -414,7 +414,7 @@ form .input-box input[type="submit"]{
     }
 
     .menuToggle.active{
-        background: url('close.png');
+        background: url('../images/close.png');
         background-size: 1.56rem;
         background-repeat: no-repeat;
         background-position: center;
@@ -455,12 +455,12 @@ form .input-box input[type="submit"]{
 
     /* menu */
     .menu .menu-grid-container{
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
     }
 
     .menu-grid-container .card{
         border-radius: 0.2rem;
-        width: 25rem;
+        width: 32rem;
     }
 
     .menu-grid-container .card .img-box img{
@@ -472,12 +472,12 @@ form .input-box input[type="submit"]{
     /* expert */
 
     .expert .expert-grid-container{
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
     }
 
     .expert-grid-container .cards img{
-        width: 30rem;
-        height: 28rem;
+        width: 32rem;
+        height: 30rem;
     }
 
     /* endo of expert */
@@ -485,7 +485,7 @@ form .input-box input[type="submit"]{
     /* testimonial : */
 
     .testimonial .testimonial-grid-container{
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
     }
 
     .testimonial-grid-container .card{
@@ -575,7 +575,7 @@ form .input-box input[type="submit"]{
     .menuToggle{
         width: 2.5rem;
         height: 2.5rem;
-        background: url('menu.png');
+        background: url('../images/menu.png');
         background-repeat: no-repeat;
         position: relative;
         background-size: 1.87rem;
@@ -584,7 +584,7 @@ form .input-box input[type="submit"]{
     }
 
     .menuToggle.active{
-        background: url('close.png');
+        background: url('../images/close.png');
         background-size: 1.56rem;
         background-repeat: no-repeat;
         background-position: center;
@@ -754,7 +754,7 @@ form .input-box input[type="submit"]{
     .menuToggle{
         width: 2.5rem;
         height: 2.5rem;
-        background: url('menu.png');
+        background: url('../images/menu.png');
         background-repeat: no-repeat;
         position: relative;
         background-size: 1.87rem;
