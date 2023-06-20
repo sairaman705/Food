@@ -519,11 +519,12 @@ form .input-box input[type="submit"]{
     /* header */
     header,
     header.sticky{
+        height: 2.2rem;
         padding: 0.625rem 1.25rem;
     }
 
     header .logo{
-        font-size: 1.5rem;
+        font-size: 1.8rem;
     }
 
     header .navigation{
