@@ -368,6 +368,7 @@ form .input-box input[type="submit"]{
     /* header */
     header,
     header.sticky{
+        height: 1.8rem;
         padding: 0.625rem 1.25rem;
     }
 
