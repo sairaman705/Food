@@ -368,12 +368,12 @@ form .input-box input[type="submit"]{
     /* header */
     header,
     header.sticky{
-        height: 1.8rem;
+        height: 2.8rem;
         padding: 0.625rem 1.25rem;
     }
 
     header .logo{
-        font-size: 1.2rem;
+        font-size: 1.8rem;
     }
 
     header .navigation{
